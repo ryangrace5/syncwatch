@@ -4,7 +4,7 @@ app = FastAPI(title="SyncWatch")
 
 # Sample records while we build the application.
 connections = [
-    {"id": 1, "name": "Demo Office A", "status": "healthy"},
+    {"id": 1, "name": "My First Connection", "status": "healthy"},
     {"id": 2, "name": "Demo Office B", "status": "failed"},
 ]
 
